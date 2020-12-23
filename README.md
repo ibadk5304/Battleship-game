@@ -1,1 +1,2 @@
 # Battleship-game
+This is console-based game built in JavaScript. This was my first project. In this game player select a random spot-on game board to hit. If he hits a ship, then it is a point. The goal of this game is to hit all ship with 30 chances. It was fun to build this.
